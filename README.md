@@ -3,7 +3,10 @@
     * Software Engineering
        * Improving Development Experience
        * Java Programming Language
-       * Python Programming Language 
+       * Python Programming Language
+    * Cooking
+    * Traveling
+    * Networking
 - 🌱 I’m currently learning ...
     * API Specifications
         * RAML
