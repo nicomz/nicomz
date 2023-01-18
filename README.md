@@ -4,14 +4,12 @@
        * Improving Development Experience
        * Java Programming Language
        * Python Programming Language
+       * BugBounty Tooling
     * Cooking
     * Traveling
     * Networking
 - 🌱 I’m currently learning ...
-    * API Specifications
-        * RAML
-        * OAS
-        * ODATA
+    * DNS (DoH)
 - 💞️ I’m looking to collaborate on ...
      * A better world.
 - 📫 How to reach me ...
